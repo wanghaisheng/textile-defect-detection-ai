@@ -10,7 +10,7 @@ plugins:
 
 By wanghaisheng {.text-intro}
 
-[:fa-github: Github](https://github.com/ksky521/nodeppt){.button.ghost}
+[:fa-github: Github](https://github.com/wanghaisheng/textile-defect-detection-ai/){.button.ghost}
 
 
 <slide class="bg-apple aligncenter">
