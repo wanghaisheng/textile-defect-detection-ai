@@ -503,7 +503,7 @@ ASTM  D 5994-1996 压纹土工膜苡厚度测定方法
 
 
 <slide class="bg-apple aligncenter">
-## 验布——人工验布
+# 验布——人工验布
 -------
 :::card
 ![](public/rengong.jpeg)
@@ -519,7 +519,7 @@ ASTM  D 5994-1996 压纹土工膜苡厚度测定方法
 
 
 <slide class="bg-apple aligncenter">
-## 验布——市场与机会
+# 验布——市场与机会
 -------
 :::flexblock
 ### 产品
@@ -543,7 +543,7 @@ ASTM  D 5994-1996 压纹土工膜苡厚度测定方法
 
 :::
 <slide class="bg-apple aligncenter">
-## 验布——科泰斯
+# 验布——科泰斯
 ---------
 * 首家第三方验布机构
 * 1 每一米都检验，每一个疵点都标出来                   
@@ -575,7 +575,7 @@ http://bbs.fobshanghai.com/thread-3830821-1-1.html
 :::
 
 <slide class="bg-apple aligncenter">
-## 验布——机器验布
+# 验布——机器验布
 -------
 
 ![](public/ybj.png)
@@ -586,7 +586,7 @@ http://bbs.fobshanghai.com/thread-3830821-1-1.html
 
 <slide class="bg-apple aligncenter">
 
-## 验布——机器验布
+# 验布——机器验布
 :::column
 ### 国外传统验布机
 
@@ -721,7 +721,7 @@ http://www.sohu.com/a/146592665_810120
 <slide class="bg-apple aligncenter">
 
 
-##  验布-专利布局分析
+#  验布-专利布局分析
 :::flexblock
 ### 申请人
     江南大学(37)
@@ -773,7 +773,7 @@ http://www.sohu.com/a/146592665_810120
 
 <slide class="bg-apple aligncenter">
 
-## 思路-疵点自动检测的难点
+# 思路-疵点自动检测的难点
 --------
 
 * 织物表面组织结构千变万化，纹理之间差距非常大
@@ -793,7 +793,7 @@ http://www.sohu.com/a/146592665_810120
 <slide class="bg-apple aligncenter">
 
 
-## 思路——突破口
+# 思路——突破口
 
 :::flexblock
 ### 传统人工验布
@@ -835,7 +835,7 @@ http://www.sohu.com/a/146592665_810120
 
 <slide class="bg-apple aligncenter">
 
-##  思路-人员投入
+#  思路-人员投入
 :::note
 
 http://company.zhaopin.com/CZ656938030.htm?sp=102&act=101
@@ -872,7 +872,7 @@ https://www.zhipin.com/gongsi/58a14f25c7c37ceb33N43Ny4.html?ka=job-detail-compan
 :::
 <slide class="bg-apple aligncenter">
 
-##  思路-训练数据采集
+#  思路-训练数据采集
 ------
 * 竞争对手      
 近70万张图的布料缺陷和种类数据库       
@@ -891,7 +891,7 @@ https://www.docin.com/p-809737807.html
 <slide class="bg-apple aligncenter">
 
 
- ## 思路-做什么
+ # 思路-做什么
  ---------
 
 * 生产线集成+独立验布机台+模块化
@@ -904,7 +904,7 @@ https://www.docin.com/p-809737807.html
 <slide class="bg-apple aligncenter">
 
 
-## 验布的未来畅想
+# 验布的未来畅想
 ------
 * 纺织品市场是一个万亿级大市场，但几十年下来供应链端还处在非常原始的阶段，迫切需要依托互联网和新技术进行数字化、智能化改造。
 
@@ -915,7 +915,7 @@ https://www.docin.com/p-809737807.html
 <slide class="bg-apple aligncenter">
 
 
-## 思路-卖给谁
+# 思路-卖给谁
 
 ------
 * 中低端卖设备
@@ -926,7 +926,7 @@ https://www.docin.com/p-809737807.html
 
 <slide class="bg-apple aligncenter">
 
-## 思路-公司信息库
+# 思路-公司信息库
 ------
 未完成(3w+?)
 
@@ -937,7 +937,7 @@ https://www.docin.com/p-809737807.html
 
 <slide class="bg-apple aligncenter">
 
-## 思路-品类库
+# 思路-品类库
 
 未完成(300w+?)
 
@@ -987,6 +987,6 @@ https://fangzhi.1688.com/?spm=a260k.dacugeneral.1998214976.35.559d436c99gk7v
 
 <slide class="bg-apple aligncenter">
 
-## 思路-品类-产品-公司对照表
+# 思路-品类-产品-公司对照表
 ------
 未完成
